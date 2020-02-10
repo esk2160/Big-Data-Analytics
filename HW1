@@ -1,0 +1,5 @@
+git init
+git add "DataCrawl" 
+git commit -m "first commit"
+git remote add origin https://github.com/esk2160/Big-Data-Analytics/
+git push -u origin master
